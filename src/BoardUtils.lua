@@ -20,9 +20,9 @@
 	function BoardUtil.IsPositionValid(pos: Vector2): boolean	
 		Checks if a position is within the bounds of an 8x8 chess board
 	function BoardUtil.GetX(int: number): number
-		Gets solely the X value from the int, when it is converted to a Vecto2
+		Gets solely the X value from the int, when it is converted to a Vector2
 	function BoardUtil.GetY(int: number): number
-		Gets solely the Y value from the int, when it is converted to a Vecto2
+		Gets solely the Y value from the int, when it is converted to a Vector2
 	function BoardUtil.IntToVector2(intVal: number): Vector2
 		Takes in an int value and returns a Vector2
 	function BoardUtil.Vector2ToInt(valX: Vector2 | number, valY: number | nil): int 
