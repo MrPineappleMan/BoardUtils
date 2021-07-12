@@ -1,6 +1,6 @@
 # Board Utils
 ***
-Various helpful utilies for pseudo-2D arrays
+Various helpful utilities for pseudo-2D arrays
 
 # Download
 Copy the ``BoardUtil.lua`` file [it's in ``src``] into your repository and you are set!
